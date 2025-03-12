@@ -15,7 +15,7 @@ pipeline {
             steps {
                 script {
                     // Print the output of the .cpp file
-                    sh './main/hello_exec'
+                    shi './main/hello_exec'
                 }
             }
         }
